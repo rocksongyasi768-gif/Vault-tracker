@@ -1,0 +1,17 @@
+{
+  "name": "Vault Budget Tracker",
+  "short_name": "Vault",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0e12",
+  "theme_color": "#0d0e12",
+  "description": "Offline personal savings vault and daily budget tracker.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2535/2535522.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
